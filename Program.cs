@@ -1,27 +1,35 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// Problema 1:
-// Realizar una aplicación de consola que cargue de un número entero por teclado e
-// imprimir su cuadrado.
+// Problema 2:
+// Realizar una aplicación de consola que cargue 2 números y haga la división entre ellos.
 
-System.Console.WriteLine("Ingrese un numero para elevarlo al cuadrado xd");
+
+
 
 try
 {
-    int num;  
-    num = Int32.Parse(Console.ReadLine());
-
-    System.Console.WriteLine("El cuadrado del numero ingresado es " + num*num);
-
+    System.Console.WriteLine("Ingrese el primer numero");
+    int num1 = Int32.Parse(Console.ReadLine());
+    System.Console.WriteLine("Ingrese el segundo numero");
+    int num2 = Int32.Parse(Console.ReadLine());
+    System.Console.WriteLine("{0} / {1} = {2}", num1,num2,num1/num2);
 }
-catch (FormatException a)
+catch (DivideByZeroException)
 {
-    System.Console.WriteLine("no ingreso un numero");
-   
+    
+    System.Console.WriteLine("El divisor es cero");
 }
-catch(Exception e) {
-    System.Console.WriteLine("Hubo un error, consulte con su desarrollador.");
+catch (FormatException)
+{
+    
+    System.Console.WriteLine("rror en el formato. Debe ingresar un numero");
 }
+catch (Exception)
+{
+    
+    System.Console.WriteLine("Error en el programa.");
+}
+
 
 
 
