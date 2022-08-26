@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\bin\Debug\net6.0\tp1-2022-agussarroyoo.exe
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\bin\Debug\net6.0\tp1-2022-agussarroyoo.deps.json
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\bin\Debug\net6.0\tp1-2022-agussarroyoo.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\bin\Debug\net6.0\tp1-2022-agussarroyoo.dll
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\bin\Debug\net6.0\tp1-2022-agussarroyoo.pdb
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.dll
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\refint\tp1-2022-agussarroyoo.dll
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.pdb
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\tp1-2022-agussarroyoo.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp1-2022-agussarroyoo\obj\Debug\net6.0\ref\tp1-2022-agussarroyoo.dll
