@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj": {}
+    "C:\\Users\\Agu\\Desktop\\TALLER ll\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj": {
+    "C:\\Users\\Agu\\Desktop\\TALLER ll\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj",
+        "projectUniqueName": "C:\\Users\\Agu\\Desktop\\TALLER ll\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj",
         "projectName": "tp1-2022-agussarroyoo",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\tp1-2022-agussarroyoo\\obj\\",
+        "projectPath": "C:\\Users\\Agu\\Desktop\\TALLER ll\\tp1-2022-agussarroyoo\\tp1-2022-agussarroyoo.csproj",
+        "packagesPath": "C:\\Users\\Agu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agu\\Desktop\\TALLER ll\\tp1-2022-agussarroyoo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Agu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
